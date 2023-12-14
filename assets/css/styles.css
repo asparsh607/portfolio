@@ -397,16 +397,16 @@ img {
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
-  padding: 2rem 0;
+  padding: 2rem 0 1rem 0;
 }
 
 .footer__title {
   font-size: 2rem;
-  margin-bottom: var(--mb-4);
+  margin-bottom: 0%;
 }
 
 .footer__social {
-  margin-bottom: var(--mb-4);
+  margin: 0 0 0 0;
 }
 
 .footer__icon {
@@ -534,7 +534,7 @@ img {
     margin-right: auto;
   }
   .home {
-    padding: 10rem 0 2rem;
+    padding: 6rem 0 2rem;
   }
   .home__img {
     width: 450px;
