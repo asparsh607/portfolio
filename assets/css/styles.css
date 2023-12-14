@@ -311,6 +311,12 @@ img {
   align-items: center;
 }
 
+.project__title{
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
 .skills__bar {
   position: absolute;
   left: 0;
@@ -322,11 +328,19 @@ img {
 }
 
 .skills__sql {
-  width: 60%;
+  width: 65%;
 }
 
 .skills__python {
-  width: 66%;
+  width: 60%;
+}
+
+.skills__flask {
+  width: 30%;
+}
+
+.skills__spark {
+  width: 20%;
 }
 
 .skills__kafka {
@@ -334,10 +348,6 @@ img {
 }
 
 .skills__tableau {
-  width: 20%;
-}
-
-.skills__flask {
   width: 20%;
 }
 
